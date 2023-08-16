@@ -6,8 +6,13 @@ public class TaskClass2 {
 		// TODO Auto-generated method stub
 		System.out.println("This is new changes from UpdtateToClass");
           for (int i =0;i< 30;i++) {
-        	  System.out.println(i);
-          }
+        	 
+        	  System.out.print(i);
+        	  
+        	  int b = 5 ;
+        	  System.out.println(b);
+        	  
+          }   
 	}
 
 }
